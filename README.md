@@ -1,88 +1,35 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Junaid;Full+Stack+Laravel+Developer;Vue.js+%26+Inertia+Specialist;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
-</div>
+💫 Hi 👋, I'm Junaid
+A passionate Full Stack Laravel Developer | Vue.js Expert | Inertia Specialist from Pakistan
+📧 Email Me: [your-email@example.com] For Collaboration/Projects or Anything Else. 😊😊
 
-<div align="center">
-  <a href="mailto:junaidshiekh146@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/junaid-shiekh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.fiverr.com/junaid_shiekh">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
-  </a>
-</div>
+🔭 I'm currently working on: Building scalable web applications with Laravel, Vue.js, and Inertia.js
+🌱 I'm currently learning: Advanced Laravel patterns, microservices architecture, and cloud deployment
+👯 I'm looking to collaborate on: Full-stack web development projects, SaaS applications, and API development
+🤔 I'm looking for help with: Optimizing large-scale Laravel applications and real-time features
+💬 Ask me about: Laravel, Vue.js, Inertia.js, MySQL, RESTful APIs, and full-stack development
+📫 How to reach me: Fiverr | LinkedIn | Email
+😄 Pronouns: He/Him
+⚡ Fun fact: I turn coffee into code and bugs into features! ☕💻
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaidshiekh146@gmail.com) 
 
-<br/>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Junaid-Shiekh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Junaid-Shiekh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-Shiekh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <p align="center">
-    🚀 <b>Passionate Creator</b> building scalable web applications with <b>Laravel, Vue.js, and Inertia.js</b>.<br/>
-    Specializing in premium user experiences and robust backend architectures.
-  </p>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Junaid-Shiekh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🛠️ My Tech Universe
-
-#### 🏗️ Backend Excellence
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-#### 🎨 Frontend Magic
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Junaid-Shiekh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Junaid-Shiekh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 Strategic Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Junaid-Shiekh&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Junaid's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-Shiekh&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junaid-Shiekh&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 Hall of Fame
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Junaid-Shiekh&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</div>
-
----
-
-### 🔥 Development Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Junaid-Shiekh&theme=github-compact)
-
----
-
-### � Let's Connect!
-- 🔭 Working on: **Scalable Enterprise Solutions**
-- 🌱 Learning: **Microservices & System Design**
-- ⚡ Fun fact: **I turn coffee into performant code.**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Junaid-Shiekh&icon=5&color=4" alt="Visitor Count" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
