@@ -1,4 +1,15 @@
+💫 Hi 👋, I'm Junaid
+A passionate Full Stack Laravel Developer | Vue.js Expert | Inertia Specialist from Pakistan
+📧 Email Me: [your-email@example.com] For Collaboration/Projects or Anything Else. 😊😊
 
+🔭 I'm currently working on: Building scalable web applications with Laravel, Vue.js, and Inertia.js
+🌱 I'm currently learning: Advanced Laravel patterns, microservices architecture, and cloud deployment
+👯 I'm looking to collaborate on: Full-stack web development projects, SaaS applications, and API development
+🤔 I'm looking for help with: Optimizing large-scale Laravel applications and real-time features
+💬 Ask me about: Laravel, Vue.js, Inertia.js, MySQL, RESTful APIs, and full-stack development
+📫 How to reach me: Fiverr | LinkedIn | Email
+😄 Pronouns: He/Him
+⚡ Fun fact: I turn coffee into code and bugs into features! ☕💻
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaidshiekh146@gmail.com) 
 
